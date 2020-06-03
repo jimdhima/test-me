@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jimdhima/test-me/issues"
   },
-  "homepage": "https://github.com/jimdhima/test-me#readme"
+  "homepage": "https://github.com/jimdhima/test-me#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
